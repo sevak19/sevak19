@@ -21,3 +21,5 @@
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevak19&layout=compact&theme=gotham)](https://github.com/sevak19/github-readme-stats)
+
+![Snake animaton](https://github.com/sevak19/sevak19/blob/output/github-contribution-grid-snake.svg)
