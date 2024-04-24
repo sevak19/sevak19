@@ -1,4 +1,4 @@
-## Olá! Eu sou o Arthur Costa, mais conhecido como SEVAK 🖐️
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00ffb2&center=true&vCenter=true&random=false&width=1000&lines=Olá!%2C+meu+nome+é+Arthur+Costa;Mais+conhecido+como+SEVAK🖐️;Tenho+18+anos;Cursando+Ciencia+da+Computação;Seja+bem+vindo%3A)](https://git.io/typing-svg)
 
 [![Blog](https://img.shields.io/website?label=sevak.com&style=for-the-badge&url=https://portfolio-sevaks-projects-d796dcfd.vercel.app/)](https://portfolio-sevaks-projects-d796dcfd.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sevaksons/)
@@ -20,4 +20,8 @@
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div><br/>
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevak19&layout=compact&theme=gotham)](https://github.com/sevak19/github-readme-stats)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00ffb2&center=true&vCenter=true&random=false&width=1000&lines=Obrigado!;)](https://git.io/typing-svg)
