@@ -1,5 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00ffb2&center=true&vCenter=true&random=false&width=1000&lines=Olá!%2C+meu+nome+é+Arthur+Costa;Mais+conhecido+como+SEVAK🖐️;Tenho+18+anos;Cursando+Ciencia+da+Computação;Seja+bem+vindo%3A)](https://git.io/typing-svg)
 
+
 [![Blog](https://img.shields.io/website?label=sevak.com&style=for-the-badge&url=https://portfolio-sevaks-projects-d796dcfd.vercel.app/)](https://portfolio-sevaks-projects-d796dcfd.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sevaksons/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531997319966?text=Olá,%20me%20interessei%20sobre%20seu%20github%20e%20gostaria%20de%20fazer%20um%20orçamento!)
@@ -7,6 +8,12 @@
 
 
 ![Sevak GitHub stats](https://github-readme-stats.vercel.app/api?username=sevak19&show_icons=true&theme=gotham&count_private=true)
+
+<div align="left">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sevak19&theme=gotham&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
