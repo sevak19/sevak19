@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
+
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00ffb2&center=true&vCenter=true&random=false&width=1000&lines=Olá!%2C+meu+nome+é+Arthur+Costa;Mais+conhecido+como+SEVAK🖐️;Tenho+18+anos;Cursando+Ciencia+da+Computação;Seja+bem+vindo%3A)](https://git.io/typing-svg)
 
 <div align="center">
@@ -40,6 +42,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevak19&layout=compact&theme=gotham)](https://github.com/sevak19/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00ffb2&center=true&vCenter=true&random=false&width=1000&lines=Obrigado!;)](https://git.io/typing-svg)
 
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{sevak19}/count.svg"/></p> 
+<br></div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00ffb2&center=true&vCenter=true&random=false&width=1000&lines=Obrigado!;)](https://git.io/typing-svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
