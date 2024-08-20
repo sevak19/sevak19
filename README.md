@@ -11,6 +11,7 @@
 
 
 ![Sevak GitHub stats](https://github-readme-stats.vercel.app/api?username=sevak19&show_icons=true&theme=gotham&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sevak19&theme=gotham)
 
 
 <div align="center" >
