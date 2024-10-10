@@ -37,7 +37,7 @@
 [![My_Skills](https://skillicons.dev/icons?i=python&perline=10)](https://skillicons.dev)
 
 ## 🛠 Tools:
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,windows,linux&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,eclipse,git,github,windows,powershell,linux,ubuntu&perline=10)](https://skillicons.dev)
 
 ## 👨‍💻 Studying in this moment:
 
