@@ -28,7 +28,7 @@
 
 ## 🤖 Main Knowledge:
 
-[![My_Skills](https://skillicons.dev/icons?i=java,c,cpp,html,css,js,bootstrap&perline=10)](https://skillicons.dev)
+[![My_Skills](https://skillicons.dev/icons?i=java,c,cpp,html,css,js,bootstrap,mysql&perline=10)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevak19&layout=compact&theme=gotham)](https://github.com/sevak19/github-readme-stats)
 
@@ -37,11 +37,11 @@
 [![My_Skills](https://skillicons.dev/icons?i=python&perline=10)](https://skillicons.dev)
 
 ## 🛠 Tools:
-[![Tools](https://skillicons.dev/icons?i=vscode,eclipse,git,github,windows,powershell,linux,ubuntu&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,eclipse,git,github,windows,powershell,linux,ubuntu,postgres&perline=10)](https://skillicons.dev)
 
 ## 👨‍💻 Studying in this moment:
 
-[![Tools](https://skillicons.dev/icons?i=postgres&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=typescript,react,tailwind,nodejs,prisma&perline=10)](https://skillicons.dev)
 
 
 </div>
