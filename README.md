@@ -41,7 +41,7 @@
 
 ## 👨‍💻 Studying in this moment:
 
-[![Tools](https://skillicons.dev/icons?i=typescript,react,tailwind,nodejs,prisma&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=swift,typescript,react,tailwind,nodejs,prisma&perline=10)](https://skillicons.dev)
 
 
 </div>
